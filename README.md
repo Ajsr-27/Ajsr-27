@@ -60,16 +60,13 @@ Una tienda online completa hecha con React, con catálogo de productos, carrito 
 [![Ver demo](https://img.shields.io/badge/🌐_Ver_demo-8B5E3C?style=for-the-badge)](https://proyecto-react-sandy-chi.vercel.app/)
 [![Ver código](https://img.shields.io/badge/💻_Ver_código-D4A373?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajsr-27/Proyecto-react)
 
-![Neko Store](image.png)
+![Neko Store](Captura%20de%20pantalla%202026-09-24%20171407.png)
 
 ---
 
 ## 📊 Mis estadísticas de GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ajsr-27&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajsr-27&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados"/>
 
 <img src="https://streak-stats.demolab.com?user=Ajsr-27&theme=radical&hide_border=true" alt="Racha de commits"/>
 
