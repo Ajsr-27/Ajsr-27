@@ -1,6 +1,4 @@
-<!-- Reemplazá TU-USUARIO por tu usuario de GitHub en todo el archivo -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=¡Hola,%20soy%20Augusto!&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=%20%20%7C%20Programador Full Stack%20%7C%20%20&descSize=18&descAlignY=68" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=Hola%2C%20soy%20Augusto&fontSize=48&fontColor=ffffff&desc=%7C%20Programador%20Full%20Stack%20%7C&descSize=18&descAlignY=68" alt="Header" width="100%"/>
 
 <div align="center">
 
@@ -60,9 +58,9 @@ Una tienda online completa hecha con React, con catálogo de productos, carrito 
 **🧱 Tecnologías:** `React` · `Vite` · `Tailwind CSS v4` · `React Router` · `Firebase (Firestore + Auth)` · `Imgbb` · `Vercel`
 
 [![Ver demo](https://img.shields.io/badge/🌐_Ver_demo-8B5E3C?style=for-the-badge)](https://proyecto-react-sandy-chi.vercel.app/)
-[![Ver código](https://img.shields.io/badge/💻_Ver_código-D4A373?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajsr-27/Proyecto-react.git)
+[![Ver código](https://img.shields.io/badge/💻_Ver_código-D4A373?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajsr-27/Proyecto-react)
 
-![alt text](image.png)
+![Neko Store](image.png)
 
 ---
 
@@ -70,10 +68,10 @@ Una tienda online completa hecha con React, con catálogo de productos, carrito 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ajsr-27&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajsr-27&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados"/>
 
-<img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=radical&hide_border=true" alt="Racha de commits"/>
+<img src="https://streak-stats.demolab.com?user=Ajsr-27&theme=radical&hide_border=true" alt="Racha de commits"/>
 
 </div>
 
@@ -92,7 +90,7 @@ Una tienda online completa hecha con React, con catálogo de productos, carrito 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-sanchez-954360115/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:72rsja@gmaiil.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:72rsja@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer" width="100%" alt="Footer"/>
 
